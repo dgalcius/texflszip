@@ -1,0 +1,2 @@
+#!/bin/sh
+ruby ~/dev/ruby/texzip/${0##*/}.rb $*
